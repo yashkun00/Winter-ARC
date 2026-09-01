@@ -1,4 +1,4 @@
 # THE NAME OF THE APPLICATION IS ARC
 ## ARC IS MADE FOR WINTER ARC
 # UI
-![UI,image/ua.png)]
+![UI](image/ua.png)]
