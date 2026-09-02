@@ -12,7 +12,9 @@
 ## 1. sleep for at least 7 hrs
 ## 2. 30 min of Exercise daily
 ## 3. 2 hrs of Study
-## 
+## 4. No Porn
+## 5. Reading 10 pages daily
+## 6. Morning sunlight for 30 min
 
 ![ui4](image/ubb.png)
 
