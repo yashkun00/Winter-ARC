@@ -1,6 +1,6 @@
 # THE NAME OF THE APPLICATION IS ARC
-## ARC IS MADE FOR WINTER ARC
-# UI
+ARC IS MADE FOR WINTER ARC
+ UI
 ![UI](image/ui.png)
 ![ui2](image/ua.png)
 ## The application has been created for the peoples who really wants to improve and wants to do something 
