@@ -176,7 +176,6 @@ Winter-ARC/
 ```
 ## 💻 Running the Project
 
----
 Clone the repository
 ### Bash
 ```py
