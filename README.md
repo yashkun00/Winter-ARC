@@ -173,3 +173,29 @@ Winter-ARC/
 │
 ├── package.json
 └── README.md
+```
+## 💻 Running the Project
+
+---
+Clone the repository
+### Bash
+```py
+
+git clone https://github.com/yashkun00/Winter-ARC.git
+
+```
+---
+Move into the project:
+```py
+cd Winter-ARC
+```
+---
+
+Install dependencies:
+```py
+npm install
+```
+---
+Start the development server:
+```py
+npm run dev
